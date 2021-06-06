@@ -5,7 +5,8 @@ It is an online database of information related to films, television programs, h
 
 # Concepts
 
-Procedures
-Transactions
-DML Operations
-DDL Operations
+1. Procedures
+2. Transactions
+3. DML Operations
+4. DDL Operations
+5. Indexing
